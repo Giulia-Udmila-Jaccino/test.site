@@ -1,0 +1,44 @@
+@charset "UTF-8";
+body{
+    background-image: linear-gradient(to left, #5CE0D0, #2e7cb1  );
+}
+
+main{
+    height: 600px;
+    width: 600px;
+    background-color: white;
+    box-shadow: 10px;
+    margin:auto;
+    border-radius: 10px;
+}
+h1{
+    text-align: center;
+    font: bolder 3em sans-serif;
+    color: rgb(11, 89, 110);
+}
+
+h2{
+    text-align: center;
+    font: bolder 2em sans-serif;
+    padding-top: 50px;
+    color: #5CE0D0;
+}
+p{
+    text-align: center;
+    font: bolder 1em sans-serif;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #75ded1;
+}
+
+li{
+    font: bolder 1em sans-serif;
+    color: #3db5a7;
+}
+
+small{
+    font: normal sans-serif;
+    color: #3db5a7;
+}
+
+/* Ordem para de usar o font: font-style | font-variant | font-weight | font-size | font-family.
